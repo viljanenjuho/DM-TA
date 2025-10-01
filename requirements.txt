@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# HDF5 / data handling
+h5py
+
+# Machine learning / deep learning
+torch
+torchvision
+torchaudio
+scikit-learn
+
+# Jupyter & dev tools
+jupyter
+notebook
+ipykernel
+tqdm
+
+# Kaggle competition
+kaggle
